@@ -97,7 +97,7 @@ install
 Git Clone2
 ```
 
-git clone https://github.com/Datbao47005/NRO_OFFLINE && cd NRO_OFFLINE && python setup.py && unzip gojo.zip && rm gojo.zip python dragon py
+git clone https://github.com/Datbao47005/NRO_OFFLINE && cd NRO_OFFLINE && python setup.py && unzip gojo.zip && rm gojo.zip && python dragon py
 
 ```
 hhh
